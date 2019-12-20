@@ -1,0 +1,23 @@
+{
+  "name": "@woxingxin/request-with-axios",
+  "version": "1.0.0",
+  "description": "Request with axios",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woxingxin/request-with-axios.git"
+  },
+  "keywords": [
+    "request",
+    "axios"
+  ],
+  "author": "XinJiangYuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woxingxin/request-with-axios/issues"
+  },
+  "homepage": "https://github.com/woxingxin/request-with-axios#readme"
+}
